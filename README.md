@@ -6,6 +6,9 @@
 <img width="501" alt="Screenshot 2023-09-19 at 12 59 22" src="https://github.com/nisha8c/react-typescript-shop/assets/108927164/a22b7c56-1113-44af-9640-a67193fa9fb0">
 
 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
